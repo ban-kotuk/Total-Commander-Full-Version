@@ -237,3 +237,6 @@ This repository serves as the official landing page for Total Commander. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Total Commander today!**
+
+---
+**Last updated:** 2026-09-08 12:40:52 UTC
