@@ -239,4 +239,4 @@ This repository serves as the official landing page for Total Commander. The sof
 **Get the most recent version of Total Commander today!**
 
 ---
-**Last updated:** 2026-09-10 23:38:59 UTC
+**Last updated:** 2026-09-11 02:43:36 UTC
